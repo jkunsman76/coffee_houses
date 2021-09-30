@@ -1,0 +1,22 @@
+
+body {
+}
+.pageHeader{
+    text-align: center;
+
+}
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    text-align: left;
+    margin: 2px;
+    padding: 25px 0px;
+}
+.shop {
+ float: left;
+ width: 25%;
+ margin: 0px;
+ border: 1px black dashed;
+ padding: 4px 4px;
+}
